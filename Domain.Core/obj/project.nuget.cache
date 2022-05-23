@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wv1h4BUI3cIVfhllBauYNfAWt62RI5/OpRhixzkh6jj3++Cve5gSYTOF2wbDamxYvecluf/fF47m8qflQ18PVQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\MicroserviceRabbitMq\\Domain.Core\\Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\login\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\login\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

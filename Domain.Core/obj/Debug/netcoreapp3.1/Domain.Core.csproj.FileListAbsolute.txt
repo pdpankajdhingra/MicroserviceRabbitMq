@@ -1,0 +1,10 @@
+E:\Projects\MicroserviceRabbitMq\Domain.Core\bin\Debug\netcoreapp3.1\Domain.Core.deps.json
+E:\Projects\MicroserviceRabbitMq\Domain.Core\bin\Debug\netcoreapp3.1\Domain.Core.dll
+E:\Projects\MicroserviceRabbitMq\Domain.Core\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+E:\Projects\MicroserviceRabbitMq\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.csproj.AssemblyReference.cache
+E:\Projects\MicroserviceRabbitMq\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MicroserviceRabbitMq\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.AssemblyInfoInputs.cache
+E:\Projects\MicroserviceRabbitMq\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.AssemblyInfo.cs
+E:\Projects\MicroserviceRabbitMq\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.csproj.CoreCompileInputs.cache
+E:\Projects\MicroserviceRabbitMq\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.dll
+E:\Projects\MicroserviceRabbitMq\Domain.Core\obj\Debug\netcoreapp3.1\Domain.Core.pdb

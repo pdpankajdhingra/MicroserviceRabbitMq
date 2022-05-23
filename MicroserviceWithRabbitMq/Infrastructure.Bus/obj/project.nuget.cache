@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5RcW68peBEbvTaS2KZeoG45eaaK26iW0MUr5aiDZIAAsndsEtphxes2644nO5Vn60hMyScwwvZ6LwnRlmmbqbQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\MicroserviceRabbitMq\\MicroserviceWithRabbitMq\\Infrastructure.Bus\\Infrastructure.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\login\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\login\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\login\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\login\\.nuget\\packages\\rabbitmq.client\\6.3.0\\rabbitmq.client.6.3.0.nupkg.sha512",
+    "C:\\Users\\login\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\login\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

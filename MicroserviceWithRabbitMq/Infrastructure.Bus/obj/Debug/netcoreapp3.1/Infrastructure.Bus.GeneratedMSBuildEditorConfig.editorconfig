@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Infrastructure.Bus
+build_property.ProjectDir = E:\Projects\MicroserviceRabbitMq\MicroserviceWithRabbitMq\Infrastructure.Bus\

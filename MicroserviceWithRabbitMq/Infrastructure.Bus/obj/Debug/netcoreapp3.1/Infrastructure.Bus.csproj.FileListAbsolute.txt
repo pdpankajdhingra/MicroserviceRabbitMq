@@ -1,0 +1,13 @@
+E:\Projects\MicroserviceRabbitMq\MicroserviceWithRabbitMq\Infrastructure.Bus\bin\Debug\netcoreapp3.1\Infrastructure.Bus.deps.json
+E:\Projects\MicroserviceRabbitMq\MicroserviceWithRabbitMq\Infrastructure.Bus\bin\Debug\netcoreapp3.1\Infrastructure.Bus.dll
+E:\Projects\MicroserviceRabbitMq\MicroserviceWithRabbitMq\Infrastructure.Bus\bin\Debug\netcoreapp3.1\Infrastructure.Bus.pdb
+E:\Projects\MicroserviceRabbitMq\MicroserviceWithRabbitMq\Infrastructure.Bus\bin\Debug\netcoreapp3.1\Domain.Core.dll
+E:\Projects\MicroserviceRabbitMq\MicroserviceWithRabbitMq\Infrastructure.Bus\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+E:\Projects\MicroserviceRabbitMq\MicroserviceWithRabbitMq\Infrastructure.Bus\obj\Debug\netcoreapp3.1\Infrastructure.Bus.csproj.AssemblyReference.cache
+E:\Projects\MicroserviceRabbitMq\MicroserviceWithRabbitMq\Infrastructure.Bus\obj\Debug\netcoreapp3.1\Infrastructure.Bus.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MicroserviceRabbitMq\MicroserviceWithRabbitMq\Infrastructure.Bus\obj\Debug\netcoreapp3.1\Infrastructure.Bus.AssemblyInfoInputs.cache
+E:\Projects\MicroserviceRabbitMq\MicroserviceWithRabbitMq\Infrastructure.Bus\obj\Debug\netcoreapp3.1\Infrastructure.Bus.AssemblyInfo.cs
+E:\Projects\MicroserviceRabbitMq\MicroserviceWithRabbitMq\Infrastructure.Bus\obj\Debug\netcoreapp3.1\Infrastructure.Bus.csproj.CoreCompileInputs.cache
+E:\Projects\MicroserviceRabbitMq\MicroserviceWithRabbitMq\Infrastructure.Bus\obj\Debug\netcoreapp3.1\Infrastructure.Bus.csproj.CopyComplete
+E:\Projects\MicroserviceRabbitMq\MicroserviceWithRabbitMq\Infrastructure.Bus\obj\Debug\netcoreapp3.1\Infrastructure.Bus.dll
+E:\Projects\MicroserviceRabbitMq\MicroserviceWithRabbitMq\Infrastructure.Bus\obj\Debug\netcoreapp3.1\Infrastructure.Bus.pdb

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Infrastructure.IOC
+build_property.ProjectDir = E:\Projects\MicroserviceRabbitMq\MicroserviceWithRabbitMq\Infrastructure.IOC\
